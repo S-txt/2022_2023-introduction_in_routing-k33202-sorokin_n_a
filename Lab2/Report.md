@@ -12,7 +12,7 @@ Group: K33202
 
 Author: Sorokin N. A.
 
-Lab: Lab1
+Lab: Lab2
 
 Date of create: 4.10.2022
 
