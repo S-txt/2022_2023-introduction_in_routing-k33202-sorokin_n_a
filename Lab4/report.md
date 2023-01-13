@@ -22,7 +22,7 @@ Date of finished: 13.01.2023
 # Топология
 
 Топология использованная для реализации лабораторной работы представлена в файле topology.yml, а так же на схеме ниже.
-![](assets/[IR]_Lab4_topology.png)
+![](assets/[IR]_Topology_Lab4.png)
 
 ---
 
