@@ -13,6 +13,7 @@ Group: K33202
 Author: Sorokin N. A.
 
 Lab: Lab4
+
 Date of create: 10.12.2022
 
 Date of finished: 13.01.2023
@@ -21,7 +22,7 @@ Date of finished: 13.01.2023
 # Топология
 
 Топология использованная для реализации лабораторной работы представлена в файле topology.yml, а так же на схеме ниже.
-![[[IR]_Lab4_topology.png]]
+![](assets/[IR]_Lab4_topology.png)
 
 ---
 
